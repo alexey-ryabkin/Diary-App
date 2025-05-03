@@ -2,7 +2,7 @@
 
 Данное приложение проверяет, созданы ли текстовые файлы по стандарту моего дневника, и создаёт их. Существующие файлы не перезаписываются.
 
-Последнюю версию можно [скачать по ссылке](https://disk.yandex.ru/d/eWFMqkb26xIMnw).
+Последнюю версию можно [скачать по ссылке](https://github.com/alexey-ryabkin/Diary-App/releases/latest/download/v1.0.0.zip).
 
 ![изображение](https://github.com/user-attachments/assets/a1643f98-bb86-4ac6-9e99-96a30a113c01)
 ![изображение](https://github.com/user-attachments/assets/d5d072c6-032e-40e8-9db0-3e220aac46fb)
