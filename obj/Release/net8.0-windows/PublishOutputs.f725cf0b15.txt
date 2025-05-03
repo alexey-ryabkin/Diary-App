@@ -1,0 +1,6 @@
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\bin\Release\net8.0-windows\publish\Diary-App.exe
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\bin\Release\net8.0-windows\publish\Diary-App.dll
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\bin\Release\net8.0-windows\publish\Diary-App.deps.json
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\bin\Release\net8.0-windows\publish\Diary-App.runtimeconfig.json
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\bin\Release\net8.0-windows\publish\Diary-App.dll.config
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\bin\Release\net8.0-windows\publish\Diary-App.pdb

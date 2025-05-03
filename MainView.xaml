@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:Diary_App"
         mc:Ignorable="d"
         Title="Дневник"
-        SizeToContent="WidthAndHeight">
+        SizeToContent="WidthAndHeight"
+        Icon="pack://application:,,,/Resources/ChatGPT.ico">
     <Window.Resources>
         <local:ButtonActionConverter x:Key="ButtonActionConverter"/>
         <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
@@ -21,6 +22,7 @@
     </Window.Resources>
     <StackPanel Margin="5">
         <Label Content="Создатель дневника" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Label Content="Выберите путь к папке с дневником" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <Button Click="ButtonPath_Click" Content="{Binding Path}" Name="PathButton"/>
         <ItemsControl ItemsSource="{Binding Rows}" Name="UIRows" Grid.IsSharedSizeScope="True" Width="{Binding ElementName=PathButton, Path=Width}">
             <ItemsControl.ItemTemplate>

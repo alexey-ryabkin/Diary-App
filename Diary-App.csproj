@@ -9,14 +9,37 @@
     <UseWPF>true</UseWPF>
 	  <UseWindowsForms>true</UseWindowsForms>
     <UseWindowsForms>False</UseWindowsForms>
+    <ApplicationIcon>Resources\ChatGPT.ico</ApplicationIcon>
+    <Title>Создатель дневника Рябкина</Title>
+    <Description>Приложение создаёт пустые текстовые файлы по заданному стандарту.</Description>
+    <Copyright>Рябкинг</Copyright>
+    <PackageIcon>ChatGPT Image 3 мая 2025 г., 19_08_24.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
+    <Resource Include="Resources\ChatGPT.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Update="Properties\Settings.Designer.cs">
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>

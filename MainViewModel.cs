@@ -79,8 +79,9 @@ namespace Diary_App
             set
             {
                 path = value;
-                OnPropertyChanged(nameof(Path));
+                Properties.Settings.Default.DiaryPath = path;
                 Properties.Settings.Default.Save();
+                OnPropertyChanged(nameof(Path));
             }
         }
 
@@ -140,6 +141,13 @@ namespace Diary_App
             Debug.WriteLine("Настроена папка " + folderName);
             Debug.WriteLine(iscurrent ? "Это папка текущего месяца" : "Это папка прошлого или будущего месяца");
             Debug.WriteLine("Папка " + folderName + " " + (folderCreated ? "существует" : "не существует"));
+        }
+        public void UpdateButtons()
+        {
+            for (int i = 0; i < Rows.Count; i++)
+            {
+                UpdateButton(i);
+            }
         }
         public void CreateOrOpen(UIRow button)
         {

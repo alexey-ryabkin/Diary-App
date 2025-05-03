@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|d:\\yandexdisk\\c#\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\diary-app\\mainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:mainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|d:\\yandexdisk\\c#\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\diary-app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|d:\\yandexdisk\\c#\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\diary-app\\diary-app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:diary-app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|d:\\yandexdisk\\c#\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\diary-app\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|d:\\yandexdisk\\c#\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\diary-app\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|d:\\yandexdisk\\c#\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\diary-app\\diary-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:diary-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|d:\\yandexdisk\\c#\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\diary-app\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
-      "RelativeMoniker": "D:0:0:{2CEF7F92-A68B-4615-ACE0-6DEE03176A4D}|Diary-App.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,106 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:14:48.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Diary-App",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\Diary-App.csproj",
-              "RelativeDocumentMoniker": "Diary-App.csproj",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\Diary-App.csproj",
-              "RelativeToolTip": "Diary-App.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-03T13:07:11.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Diary-App.csproj",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\Diary-App.csproj",
-              "RelativeDocumentMoniker": "Diary-App.csproj",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\Diary-App.csproj",
-              "RelativeToolTip": "Diary-App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-03T13:05:13.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Settings.settings",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\Properties\\Settings.settings",
-              "RelativeDocumentMoniker": "Properties\\Settings.settings",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\Properties\\Settings.settings",
-              "RelativeToolTip": "Properties\\Settings.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2025-05-02T10:52:06.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainView.xaml",
-              "RelativeDocumentMoniker": "MainView.xaml",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainView.xaml",
-              "RelativeToolTip": "MainView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-02T09:26:39.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainView.xaml.cs",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainView.xaml.cs",
-              "RelativeDocumentMoniker": "MainView.xaml.cs",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainView.xaml.cs",
-              "RelativeToolTip": "MainView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T09:26:35.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "MainViewModel.cs",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainViewModel.cs",
-              "RelativeToolTip": "MainViewModel.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAgwJYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T09:57:40.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainModel.cs",
-              "DocumentMoniker": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainModel.cs",
-              "RelativeDocumentMoniker": "MainModel.cs",
-              "ToolTip": "D:\\YandexDisk\\C#\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435-\u0434\u043D\u0435\u0432\u043D\u0438\u043A\\Diary-App\\MainModel.cs",
-              "RelativeToolTip": "MainModel.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwEAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T09:57:59.195Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -21,3 +21,5 @@ D:\YandexDisk\C#\Приложение-дневник\Diary-App\obj\Debug\net8.0-
 D:\YandexDisk\C#\Приложение-дневник\Diary-App\obj\Debug\net8.0-windows\ref\Diary-App.dll
 D:\YandexDisk\C#\Приложение-дневник\Diary-App\bin\Debug\net8.0-windows\Diary-App.dll.config
 D:\YandexDisk\C#\Приложение-дневник\Diary-App\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\obj\Debug\net8.0-windows\Diary_App.Properties.Resources.resources
+D:\YandexDisk\C#\Приложение-дневник\Diary-App\obj\Debug\net8.0-windows\Diary-App.csproj.GenerateResource.cache

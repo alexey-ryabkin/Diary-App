@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Microsoft.Win32;
 
 namespace Diary_App
 {
@@ -35,7 +36,17 @@ namespace Diary_App
 
         private void ButtonPath_Click(object sender, RoutedEventArgs e)
         {
+            var folderDialog = new OpenFolderDialog
+            {
+                // Set options here
+            };
 
+            if (folderDialog.ShowDialog() == true)
+            {
+                var folderName = folderDialog.FolderName;
+                viewModel.Path = folderName;
+            }
+            viewModel.UpdateButtons();
         }
     }
 }
